@@ -1,0 +1,11 @@
+-: 1: # Comments should be ignored
+-: 2: 
+-: 3: 
+-: 4: also ignore blank lines
+also ignore blank lines: key not found
+-: 5: this file contains nonexistent keys
+this file contains nonexistent keys: key not found
+-: 6: all output should be error messages
+all output should be error messages: key not found
+-: 7: # $Id: test3.in,v 1.1 2010-02-09 20:31:28-08 - - $
+-: 8: 
